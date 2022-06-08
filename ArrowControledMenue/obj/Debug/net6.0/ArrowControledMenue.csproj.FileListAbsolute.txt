@@ -1,0 +1,15 @@
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\bin\Debug\net6.0\ArrowControledMenue.exe
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\bin\Debug\net6.0\ArrowControledMenue.deps.json
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\bin\Debug\net6.0\ArrowControledMenue.runtimeconfig.json
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\bin\Debug\net6.0\ArrowControledMenue.dll
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\bin\Debug\net6.0\ArrowControledMenue.pdb
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.csproj.AssemblyReference.cache
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.AssemblyInfoInputs.cache
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.AssemblyInfo.cs
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.csproj.CoreCompileInputs.cache
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.dll
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\refint\ArrowControledMenue.dll
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.pdb
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ArrowControledMenue.genruntimeconfig.cache
+C:\Users\satar\source\repos\ArrowControledMenue\ArrowControledMenue\obj\Debug\net6.0\ref\ArrowControledMenue.dll
